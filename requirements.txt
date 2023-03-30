@@ -1,0 +1,8 @@
+# python 3.9!
+#Ultralytics install package like numpy, opencv-python,pillow,matplotlib, and others.
+ultralytics==8.0.33
+scikit-learn==0.23.0
+tensorflow==2.11.0
+scikit-image==0.19.3
+filterpy==1.4.5
+protobuf==3.19.6
